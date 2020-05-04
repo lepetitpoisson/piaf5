@@ -28,6 +28,8 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
 
 	<header id="masthead" class="site-header" role="banner">
+		
+		Hello!
 
 		<?php get_template_part( 'template-parts/header/header', 'image' ); ?>
 
